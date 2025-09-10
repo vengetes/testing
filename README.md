@@ -1,6 +1,6 @@
 # Deskripsi
-Ini adalah aplikasi untuk melakukan Trading dengan bahasa PHP dan HTML.
+Ini adalah aplikasi untuk melakukan Trading dengan bahasa PHP dan HTML.git 
 
 #Contributor
 Hery Wahyudi
-wkwkw
+Fulan bin fulan
